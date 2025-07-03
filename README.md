@@ -73,17 +73,13 @@ Contributions are welcome! If you have suggestions, corrections, or want to add 
 
 ## Problem List
 
-|     | Topic      | Problem Link                                                                             | ▶️ Best Solution Video (Brute-Better-Optimal) [Code_With_Akshay]                                                                |
-| --- | ---------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [ ] | Array, Map | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=oizxjoit) | <div align="center">[<img src="https://img.youtube.com/vi/0qXFhacp5IY/0.jpg" width="150"/>](https://youtu.be/0qXFhacp5IY)</div> |
-
-| [ ] | String, Hash, Sliding Window | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=problem-list-v2&envId=oizxjoit) | <div align="center">[<img src="https://img.youtube.com/vi/EHO05lGXmiY/0.jpg" width="150"/>](https://youtu.be/EHO05lGXmiY)</div> |
-
-| [ ] | Two Pointer, String, Dynamic Programming | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?envType=problem-list-v2&envId=oizxjoit) | <div align="center">[<img src="https://img.youtube.com/vi/6AAt5wi79To/0.jpg" width="150"/>](https://youtu.be/6AAt5wi79To&t)</div> |
-
-| [ ] | Two Pointer, Arrays, Greedy | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water?envType=problem-list-v2&envId=oizxjoit) | <div align="center">[<img src="https://img.youtube.com/vi/wXgAiSOv3tk/0.jpg" width="150"/>](https://youtu.be/wXgAiSOv3tk&t)</div> |
-
-| [ ] | Two Pointer, Arrays, Sorting | [15. 3Sum](https://leetcode.com/problems/3sum/description/?envType=problem-list-v2&envId=oizxjoit) | <div align="center">[<img src="https://img.youtube.com/vi/5JmfzfhDZKc/0.jpg" width="150"/>](https://youtu.be/5JmfzfhDZKc&t)</div> |
+|     | Topic                                    | Problem Link                                                                                                                                                           | ▶️ Best Solution Video (Brute-Better-Optimal) [Code_With_Akshay]                                                                  |
+| --- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [ ] | Array, Map                               | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=oizxjoit)                                                                               | <div align="center">[<img src="https://img.youtube.com/vi/0qXFhacp5IY/0.jpg" width="150"/>](https://youtu.be/0qXFhacp5IY)</div>   |
+| [ ] | String, Hash, Sliding Window             | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=problem-list-v2&envId=oizxjoit) | <div align="center">[<img src="https://img.youtube.com/vi/EHO05lGXmiY/0.jpg" width="150"/>](https://youtu.be/EHO05lGXmiY)</div>   |
+| [ ] | Two Pointer, String, Dynamic Programming | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?envType=problem-list-v2&envId=oizxjoit)                                   | <div align="center">[<img src="https://img.youtube.com/vi/6AAt5wi79To/0.jpg" width="150"/>](https://youtu.be/6AAt5wi79To&t)</div> |
+| [ ] | Two Pointer, Arrays, Greedy              | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water?envType=problem-list-v2&envId=oizxjoit)                                        | <div align="center">[<img src="https://img.youtube.com/vi/wXgAiSOv3tk/0.jpg" width="150"/>](https://youtu.be/wXgAiSOv3tk&t)</div> |
+| [ ] | Two Pointer, Arrays, Sorting             | [15. 3Sum](https://leetcode.com/problems/3sum/description/?envType=problem-list-v2&envId=oizxjoit)                                                                     | <div align="center">[<img src="https://img.youtube.com/vi/5JmfzfhDZKc/0.jpg" width="150"/>](https://youtu.be/5JmfzfhDZKc&t)</div> |
 
 > **Tip:** Mark `[x]` in the first column to track your progress!
 

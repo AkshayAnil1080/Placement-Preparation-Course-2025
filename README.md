@@ -5,6 +5,11 @@
 ![Profile views](https://komarev.com/ghpvc/?username=AkshayAnil1080&label=Profile%20views&color=0e75b6&style=flat)
 
 Welcome! This repository is designed to help you master Data Structures & Algorithms (DSA), Java programming, and Spring Boot through a curated set of problems and resources. Whether you're preparing for placements or brushing up on core concepts, you'll find everything you need here.
+👉 **Click the image below to watch the video now and start your prep journey!**
+
+<a href="https://www.youtube.com/watch?v=dnggOLo59sM" target="_blank">
+  <img src="https://img.youtube.com/vi/dnggOLo59sM/maxresdefault.jpg" alt="Watch on YouTube" width="50%" style="border-radius: 10px;" />
+</a>
 
 ## 📖 Table of Contents
 

@@ -16,12 +16,12 @@ Do checkout My 500 Days of Code DSA Repository:🔗 [AkshayAnil1080/DSA](https:/
 ## 📖 Table of Contents
 
 - [Getting Started](#getting-started)
-- [Stay Connected](#stay-connected)
+- [Stay Connected](#join-the-community)
 - [Java Topics](#java-topics)
 - [Spring Boot Topics](#spring-boot-topics)
 - [Problem List with Video Solution By me](#problem-list)
 - [Resources](#resources)
-- [Check Out Other Playlists](#join-the-community)
+- [Check Out Other Playlists](#check-out-other-playlists)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
@@ -80,13 +80,14 @@ Contributions are welcome! If you have suggestions, corrections, or want to add 
 
 ## Problem List
 
-|     | Topic                                    | Problem Link                                                                                                                                                           | ▶️ Best Solution Video (Brute-Better-Optimal) [Code_With_Akshay]                                                                  |
-| --- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| [ ] | Array, Map                               | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=oizxjoit)                                                                               | <div align="center">[<img src="https://img.youtube.com/vi/0qXFhacp5IY/0.jpg" width="150"/>](https://youtu.be/0qXFhacp5IY)</div>   |
-| [ ] | String, Hash, Sliding Window             | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=problem-list-v2&envId=oizxjoit) | <div align="center">[<img src="https://img.youtube.com/vi/EHO05lGXmiY/0.jpg" width="150"/>](https://youtu.be/EHO05lGXmiY)</div>   |
-| [ ] | Two Pointer, String, Dynamic Programming | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?envType=problem-list-v2&envId=oizxjoit)                                   | <div align="center">[<img src="https://img.youtube.com/vi/6AAt5wi79To/0.jpg" width="150"/>](https://youtu.be/6AAt5wi79To&t)</div> |
-| [ ] | Two Pointer, Arrays, Greedy              | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water?envType=problem-list-v2&envId=oizxjoit)                                        | <div align="center">[<img src="https://img.youtube.com/vi/wXgAiSOv3tk/0.jpg" width="150"/>](https://youtu.be/wXgAiSOv3tk&t)</div> |
-| [ ] | Two Pointer, Arrays, Sorting             | [15. 3Sum](https://leetcode.com/problems/3sum/description/?envType=problem-list-v2&envId=oizxjoit)                                                                     | <div align="center">[<img src="https://img.youtube.com/vi/5JmfzfhDZKc/0.jpg" width="150"/>](https://youtu.be/5JmfzfhDZKc&t)</div> |
+|     | Topic                                    | Problem Link                                                                                                                                                           | ▶️ Best Solution Video (Brute-Better-Optimal) [Code_With_Akshay]                                                                  | 💡 Approach & Time Complexity                                         |
+| --- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [ ] | Array, Map                               | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=oizxjoit)                                                                               | <div align="center">[<img src="https://img.youtube.com/vi/0qXFhacp5IY/0.jpg" width="150"/>](https://youtu.be/0qXFhacp5IY)</div>   | HashMap - O(n) time, O(n) space                                       |
+| [ ] | String, Hash, Sliding Window             | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=problem-list-v2&envId=oizxjoit) | <div align="center">[<img src="https://img.youtube.com/vi/EHO05lGXmiY/0.jpg" width="150"/>](https://youtu.be/EHO05lGXmiY)</div>   | Sliding Window + Set - O(n) time, O(n) space                          |
+| [ ] | Two Pointer, String, Dynamic Programming | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?envType=problem-list-v2&envId=oizxjoit)                                   | <div align="center">[<img src="https://img.youtube.com/vi/6AAt5wi79To/0.jpg" width="150"/>](https://youtu.be/6AAt5wi79To&t)</div> | Expand Around Center - O(n²) time, O(1) space                         |
+| [ ] | Two Pointer, Arrays, Greedy              | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water?envType=problem-list-v2&envId=oizxjoit)                                        | <div align="center">[<img src="https://img.youtube.com/vi/wXgAiSOv3tk/0.jpg" width="150"/>](https://youtu.be/wXgAiSOv3tk&t)</div> | Two Pointer - O(n) time, O(1) space                                   |
+| [ ] | Two Pointer, Arrays, Sorting             | [15. 3Sum](https://leetcode.com/problems/3sum/description/?envType=problem-list-v2&envId=oizxjoit)                                                                     | <div align="center">[<img src="https://img.youtube.com/vi/5JmfzfhDZKc/0.jpg" width="150"/>](https://youtu.be/5JmfzfhDZKc&t)</div> | Sorting + Two Pointer - O(n²) time, O(log n) space (if sort in-place) |
+| [ ] | Two Pointer, Linked List                 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=problem-list-v2&envId=oizxjoit)             | <div align="center">[<img src="https://img.youtube.com/vi/mRJQVMHSquo/0.jpg" width="150"/>](https://youtu.be/mRJQVMHSquo&t)</div> | Two Pointer (fast-slow) - O(n) time, O(1) space                       |
 
 > **Tip:** Mark `[x]` in the first column to track your progress!
 

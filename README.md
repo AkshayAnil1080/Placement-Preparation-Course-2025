@@ -11,6 +11,8 @@ Welcome! This repository is designed to help you master Data Structures & Algori
   <img src="https://img.youtube.com/vi/dnggOLo59sM/maxresdefault.jpg" alt="Watch on YouTube" width="50%" style="border-radius: 10px;" />
 </a>
 
+Do checkout My 500 Days of Code DSA Repository:🔗 [AkshayAnil1080/DSA](https://github.com/AkshayAnil1080/DSA)
+
 ## 📖 Table of Contents
 
 - [Getting Started](#getting-started)
@@ -19,11 +21,11 @@ Welcome! This repository is designed to help you master Data Structures & Algori
 - [Spring Boot Topics](#spring-boot-topics)
 - [Problem List with Video Solution By me](#problem-list)
 - [Resources](#resources)
-- [Check Out Other Playlists](#check-out-other-playlists)
+- [Check Out Other Playlists](#join-the-community)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Browse the problem list below and pick a topic.
 2. Click the problem link to view it on LeetCode.
@@ -34,7 +36,7 @@ Welcome! This repository is designed to help you master Data Structures & Algori
 • 💻 Java Programming (OOPs, Collections, Multithreading, etc.)
 🌱 Spring Boot + Projects → Actual dev skills!
 
-### ✅ Stay Connected
+## Join the Community
 
 - YouTube: [Code with Akshay](https://www.youtube.com/@CodeWithAkshay)
 - GitHub: [AkshayAnil1080/DSA](https://github.com/AkshayAnil1080/DSA)
@@ -42,7 +44,7 @@ Welcome! This repository is designed to help you master Data Structures & Algori
 - LinkedIn: [Akshay Anil](https://www.linkedin.com/in/akshay-a-26672a172/)
 - LinkTree: [For current updates](https://linktr.ee/aksh_yay)
 
-## 📚 Resources
+## Resources
 
 - **Interview Experiences:** [Watch here](https://www.youtube.com/watch?v=3nS8GCsat6g&list=PL7EDHkJGOkPQH-12bG42l-2sDfojxohfv)
 - **DSA 180 - Top Interview Questions [DSA A2Z]:** [Playlist](https://www.youtube.com/playlist?list=PL7EDHkJGOkPQtbYe0vY3rIz3sZsHqOEjj)
@@ -51,14 +53,14 @@ Welcome! This repository is designed to help you master Data Structures & Algori
 - **Build 10Cr by 35 with Akshay:** [Playlist](https://www.youtube.com/playlist?list=PL7EDHkJGOkPSk0MYdjnIlWTKuKfQ8Zr1e)
 - **DSA Do's and Dont's:** [Watch here](https://www.youtube.com/watch?v=gDRkyVnEE3w&list=PL7EDHkJGOkPTxGyUq5JrRar_mYn-0J-cJ)
 
-## ▶️ Check Out Other Playlists
+## Check Out Other Playlists
 
 - **Explore with Akshay: Travel, Life & Beyond:** [Playlist](https://www.youtube.com/playlist?list=PL7EDHkJGOkPRGOcw3LIJxRkrS0Wsx1_Gu)
 - **Gaming with Akshay:** [Playlist](https://www.youtube.com/playlist?list=PL7EDHkJGOkPRdxoZbSqR3u4WnevRXzBPd)
 
 ---
 
-## 🤝 How to Contribute
+## How to Contribute
 
 Contributions are welcome! If you have suggestions, corrections, or want to add new problems/resources:
 
